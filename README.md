@@ -1,6 +1,6 @@
 # Course Name
 
-This repository contains materials and resources for the Course Name. It provides a comprehensive collection of code samples, lecture notes, and assignments to support your learning journey.
+Ce référentiel contient des documents et des ressources pour le cours "Nom du cours". Il propose une collection complète d'exemples de code, de notes de cours et de devoirs pour soutenir votre parcours d'apprentissage.
 
 ## Table of Contents
 
@@ -45,3 +45,4 @@ If you find any issues, errors, or have suggestions for improvements, please fee
 ## License
 
 This project is licensed under the [license name]. For more details, see the [LICENSE](LICENSE) file.
+regards
