@@ -45,4 +45,3 @@ If you find any issues, errors, or have suggestions for improvements, please fee
 ## License
 
 This project is licensed under the [license name]. For more details, see the [LICENSE](LICENSE) file.
-regards
